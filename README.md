@@ -1,4 +1,4 @@
-# US Census + HUD Exploratory Data Analysis
+# Understanding Homelessness in the US (and How It's Counted)
 
 **I'm currently refactoring this project. Expect more soon!**
 
